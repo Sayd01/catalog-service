@@ -3,7 +3,7 @@ on: push
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: Sayd01/catalog-service
+  IMAGE_NAME: sayd01/catalog-service
   VERSION: latest
 
 jobs:
